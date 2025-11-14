@@ -58,5 +58,4 @@ const activitiesSlice = createSlice({
       });
   },
 });
-
 export default activitiesSlice.reducer;
